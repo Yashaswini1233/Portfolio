@@ -1,4 +1,4 @@
-# Yashaswini Badarla — Portfolio
+# Vinaya Sai Yashaswini Badarla — Portfolio
 
 A responsive, dependency-free personal portfolio for AI, data, and software engineering roles.
 
